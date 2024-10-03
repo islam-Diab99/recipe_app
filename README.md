@@ -2,16 +2,6 @@
 
 A Flutter application for browsing and managing recipes. 
 
-## Table of Contents
-
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-- [Running the Project](#running-the-project)
-- [Running Tests](#running-tests)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Features
 
 - Browse a variety of recipes
